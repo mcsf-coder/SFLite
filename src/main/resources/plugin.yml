@@ -1,0 +1,12 @@
+name: SFLite
+version: '1.0'
+main: org.simpleveinpickx.simpleVeinPickX.SimpleVeinPickX
+api-version: '26.3'
+commands:
+  sf:
+    description: Gives you the SF Lite guide book
+    usage: /sf
+  giveall:
+    description: Gives you all SF Lite items
+    usage: /giveall
+    permission: sflite.admin
